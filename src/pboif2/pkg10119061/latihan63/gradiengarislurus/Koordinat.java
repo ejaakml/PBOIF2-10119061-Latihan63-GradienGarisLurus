@@ -8,6 +8,10 @@ package pboif2.pkg10119061.latihan63.gradiengarislurus;
 /**
  *
  * @author Rheiza
+ * NAMA : Rheiza Akmal R
+ * KELAS : IF 2
+ * NIM : 10119061
+ * DESKRIPSI : Garis Lurus
  */
 public class Koordinat {
     private int x1,y1,x2,y2;
